@@ -36,5 +36,8 @@ public class Exercicio {
 
 		sc.close();
 		System.out.println();
+		
+		
+//		qualquer ,linha bosta
 	}
 }
